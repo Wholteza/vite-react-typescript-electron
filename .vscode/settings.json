@@ -3,7 +3,5 @@
     "eslint.format.enable": true,
     "eslint.packageManager": "yarn",
     "editor.formatOnSave": true,
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
